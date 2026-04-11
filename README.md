@@ -16,11 +16,13 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1888" height="912" alt="image" src="https://github.com/user-attachments/assets/de055c1c-aa93-49fd-8d11-c6fca1604fdd" />
+
+
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="341" height="731" alt="image" src="https://github.com/user-attachments/assets/83492932-382f-4d84-94f6-9b02f56b4163" />
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
